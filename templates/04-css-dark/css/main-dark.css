@@ -3,7 +3,7 @@
     --primary-color: #ECB365;
     --primary-light-color: #E9A6A6;
     --text-color: #ffffff;
-    --border-color: #ECDBBA;
+    --border-color: #ffffff;
     --body-bg-color: #041C32;
     --content-bg-color: #191919;
     --link-color: #ECB365;
@@ -35,7 +35,7 @@
     --toc-bg-color: #191919;
     --tooltip-bg-color: #2D4263;
     /* Shadow */
-    --elevation-shadow-4: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+    --elevation-shadow-4: 0px 2px 4px -1px rgba(0,0,0,0.6),0px 4px 5px 0px rgba(0,0,0,0.42),0px 1px 10px 0px rgba(0,0,0,0.36);
 }
 
 /* Links */
