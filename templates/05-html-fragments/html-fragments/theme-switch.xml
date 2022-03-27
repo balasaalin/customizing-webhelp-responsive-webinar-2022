@@ -1,6 +1,10 @@
 <div class="theme-switch-container">
     <label class="switch">
         <input type="checkbox"/>
-        <span class="slider"/>
+        <span class="slider-container">
+            <span class="light-theme"/>
+            <span class="slider"/>
+            <span class="dark-theme"/>    
+        </span>
     </label> 
 </div>
