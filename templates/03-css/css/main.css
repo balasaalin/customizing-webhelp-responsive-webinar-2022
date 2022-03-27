@@ -2,6 +2,7 @@
     --primary-color: #5c7bf0;
     --primary-light-color: #eceffd;
     --secondary-color: #67BD6A;
+    --gray-color: #848484;
     --text-color: #484848;
     --border-color: #E6E5E5;
     --body-bg-color: #f2f2f2;
@@ -9,7 +10,6 @@
     --link-color: #5c7bf0;
     --tile-bg-color: #ffffff;
     --tile-color: #484848;
-    --gray-color: #848484;
     --header-color: #ffffff;
     --header-bg-color: #5c7bf0;
     --menu-bg-color: #484848;
@@ -17,15 +17,11 @@
     --search-bg-color: #ffffff;
     --footer-bg-color: #484848;
     --footer-color: #ffffff;
-
     --tools-color: #5c7bf0;
     --tools-bg-color: #ffffff;
-
     --toc-color: #484848;
     --toc-bg-color: #ffffff;
-
     --tooltip-bg-color: #5c7bf0;
-
     --elevation-shadow-1: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
     --elevation-shadow-4: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
 }
@@ -331,6 +327,14 @@ body {
 
 .wh_related_links .linklist > strong {
     color: var(--text-color);
+}
+
+/* Child links */
+.wh_child_links {
+    border-top: 1px solid var(--border-color);
+    margin-top: 20px;
+    padding-top: 6px;
+    color: var(--primary-color);
 }
 
 /* Search Results page */
