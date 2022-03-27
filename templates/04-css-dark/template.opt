@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publishing-template>
+  <name>04. CSS - dark</name>
+  <webhelp>  
+    <preview-image file="preview.png"/>
+    <resources>
+      <css file="css/main-dark.css"/>
+    </resources>
+    <parameters>
+      <parameter name="webhelp.show.main.page.tiles" value="yes"/>
+      <parameter name="webhelp.show.main.page.toc" value="no"/>
+      <parameter name="webhelp.top.menu.activated.on.click" value="yes"/>
+      <parameter name="webhelp.default.collection.type.sequence" value="yes"/>
+    </parameters>
+  </webhelp>
+</publishing-template>
