@@ -5,11 +5,15 @@
     <preview-image file="preview.png"/>
     <resources>
       <css file="css/main.css"/>
+      <css file="css/theme-switch.css"/>
     </resources>
     <parameters>
       <parameter name="webhelp.show.main.page.tiles" value="yes"/>
       <parameter name="webhelp.show.main.page.toc" value="no"/>
       <parameter name="webhelp.top.menu.activated.on.click" value="yes"/>
     </parameters>
+    <html-fragments>
+      <fragment file="html-fragments/theme-switch.xml" placeholder="webhelp.fragment.after.top_menu"/>
+    </html-fragments>
   </webhelp>
 </publishing-template>
