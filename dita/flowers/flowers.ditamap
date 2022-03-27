@@ -9,11 +9,11 @@
       </data>
     </topicmeta>
   </topicref>
-  <topicref href="topics/care.dita">
+  <topicref href="topics/care.dita" chunk="to-content">
     <topicref href="tasks/pruning.dita"/>
     <topicref href="tasks/gardenPreparation.dita"/>
   </topicref>
-  <topicref href="topics/index.dita" collection-type="sequence">
+  <topicref href="topics/index.dita" collection-type="sequence" chunk="to-content">
     <topicref href="concepts/springFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/iris.dita"/>
       <topicref href="topics/flowers/snowdrop.dita"/>
