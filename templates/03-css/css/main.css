@@ -261,6 +261,11 @@ body {
     color: var(--text-color);
 }
 
+.webhelp_expand_collapse_sections,
+.wh_hide_highlight {
+    color: var(--tools-color);
+}
+
 .oxy-icon-print {
     color: var(--tools-color);
 }
@@ -302,6 +307,12 @@ body {
 [data-tooltip-position="top"] .wh-tooltip::before,
 [data-tooltip-position="top"] .wh-toc-tooltip::before {
     border-top-color: var(--tooltip-bg-color);
+}
+
+/* Topic TOC (On this page) */
+
+.wh_topic_toc {
+    border-color: var(--border-color);
 }
 
 /* Topic content */
