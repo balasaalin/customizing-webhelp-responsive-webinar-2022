@@ -1,10 +1,12 @@
 <div class="theme-switch-container">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        rel="stylesheet"/>
     <label class="switch">
         <input type="checkbox"/>
         <span class="slider-container">
-            <span class="light-theme"/>
+            <span class="light-theme material-icons">light_mode</span>
             <span class="slider"/>
-            <span class="dark-theme"/>    
+            <span class="dark-theme material-icons">dark_mode</span>    
         </span>
     </label> 
 </div>
