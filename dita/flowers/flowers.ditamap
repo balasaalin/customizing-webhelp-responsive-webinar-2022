@@ -9,7 +9,7 @@
       </data>
     </topicmeta>
   </topicref>
-  <topicref href="topics/care.dita" chunk="to-content">
+  <topicref href="topics/care.dita">
     <topicref href="tasks/pruning.dita"/>
     <topicref href="tasks/gardenPreparation.dita"/>
   </topicref>

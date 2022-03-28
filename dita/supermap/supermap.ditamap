@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Super Map</title>
+    <title>Techniques for Customizing the WebHelp Responsive Output</title>
     <topicref href="https://webinar.sync.ro/01-new-template/" scope="external" format="html">
         <topicmeta>
             <navtitle>New Template</navtitle>
