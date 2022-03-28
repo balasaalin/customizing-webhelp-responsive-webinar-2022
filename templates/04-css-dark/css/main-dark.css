@@ -117,7 +117,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0.5em 1em;
+    font-size: 1.2em;
+    padding: 5px 16px;
     border-radius: 10px;
     flex-grow: 0;
 }
@@ -137,7 +138,7 @@ body {
     margin: 0;
     font-size: inherit;
     width: 24px;
-    height: 20px;
+    height: 24px;
     line-height: 1.3em;
 }
 @media only screen and (min-width: 768px) {
