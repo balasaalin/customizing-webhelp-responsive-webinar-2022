@@ -1,8 +1,11 @@
 <div class="theme-switch-container">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-        rel="stylesheet"/>
+    <span>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+            rel="stylesheet"/>
+        <script src="${oxygen-webhelp-template-dir}/js/theme-switch.js"/>
+    </span>
     <label class="switch">
-        <input type="checkbox"/>
+        <input type="checkbox" id="wh-theme-switch-checkbox"/>
         <span class="slider-container">
             <span class="light-theme material-icons">light_mode</span>
             <span class="slider"/>

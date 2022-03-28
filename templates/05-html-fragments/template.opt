@@ -6,6 +6,9 @@
     <resources>
       <css file="css/main.css"/>
       <css file="css/theme-switch.css"/>
+      <fileset>
+        <include name="js/**"/>
+      </fileset>
     </resources>
     <parameters>
       <parameter name="webhelp.show.main.page.tiles" value="yes"/>
