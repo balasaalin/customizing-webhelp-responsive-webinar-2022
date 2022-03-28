@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Super Map</title>
+    <topicref href="https://webinar.sync.ro/01-new-template/" scope="external" format="html">
+        <topicmeta>
+            <navtitle>New Template</navtitle>
+        </topicmeta>
+    </topicref>
+    <topicref href="https://webinar.sync.ro/02-configure-parameters/" scope="external" format="html">
+        <topicmeta>
+            <navtitle>Configure Parameters</navtitle>
+        </topicmeta>
+    </topicref>
+    <topicref href="https://webinar.sync.ro/03-css/" scope="external" format="html">
+        <topicmeta>
+            <navtitle>CSS Styling - Light Theme</navtitle>
+        </topicmeta>
+    </topicref>
+    <topicref href="https://webinar.sync.ro/03-css-dark/" scope="external" format="html">
+        <topicmeta>
+            <navtitle>CSS Styling - Dark Theme</navtitle>
+        </topicmeta>
+    </topicref>
+    <topicref href="https://webinar.sync.ro/05-html-fragments/" scope="external" format="html">
+        <topicmeta>
+            <navtitle>HTML Fragments</navtitle>
+        </topicmeta>
+    </topicref>
+    <topicref href="https://webinar.sync.ro/06-xslt-extension/" scope="external" format="html">
+        <topicmeta>
+            <navtitle>XSLT Extensions</navtitle>
+        </topicmeta>
+    </topicref>
+</map>
