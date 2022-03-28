@@ -15,6 +15,8 @@
       <parameter name="webhelp.show.main.page.tiles" value="yes"/>
       <parameter name="webhelp.show.main.page.toc" value="no"/>
       <parameter name="webhelp.top.menu.activated.on.click" value="yes"/>
+      <parameter name="webhelp.default.collection.type.sequence" value="yes"/>
+      <parameter name="webhelp.publication.toc.links" value="all"/>
     </parameters>
     <html-fragments>
       <fragment file="html-fragments/theme-switch.xml" placeholder="webhelp.fragment.after.top_menu"/>
