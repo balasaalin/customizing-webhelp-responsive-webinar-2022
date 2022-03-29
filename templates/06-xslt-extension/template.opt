@@ -6,7 +6,7 @@
     <resources>
       <css file="css/main.css"/>
       <css file="css/theme-switch.css"/>
-      <css file="search-in-header.css"/>
+      <css file="css/search-in-header.css"/>
       <fileset>
         <include name="js/**"/>
       </fileset>
