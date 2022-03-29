@@ -4,8 +4,8 @@
     --primary-light-color: #E9A6A6;
     --text-color: #ffffff;
     --border-color: #ffffff;
-    --body-bg-color: #041C32;
-    --content-bg-color: #191919;
+    --body-bg-color: #191919;
+    --content-bg-color: #041C32;
     --link-color: #ECB365;
     /* Buttons */
     --button-color: #ECB365;
@@ -14,7 +14,7 @@
     --button-disabled-color: #2D4263;
     --button-disabled-bg-color: #1F1D36;
     /* Tiles */
-    --tile-bg-color: #191919;
+    --tile-bg-color: #041C32;
     --tile-color: #ffffff;
     /* Header */
     --header-color: #ffffff;
@@ -25,17 +25,17 @@
     --search-color: #ffffff;
     --search-bg-color: #3F3351;
     /* Footer */
-    --footer-bg-color: #041C32;
+    --footer-bg-color: #191919;
     --footer-color: #ffffff;
     /* Tools & Breadcrumb */
     --tools-color: #ECB365;
     --tools-bg-color: #3F3351;
     /* TOC */
     --toc-color: #ffffff;
-    --toc-bg-color: #191919;
+    --toc-bg-color: #041C32;
     --tooltip-bg-color: #2D4263;
     /* Shadow */
-    --elevation-shadow: 0px 2px 4px -1px rgba(0,0,0,0.6),0px 4px 5px 0px rgba(0,0,0,0.42),0px 1px 10px 0px rgba(0,0,0,0.36);
+    --elevation-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
 }
 
 /* Links */
@@ -254,7 +254,6 @@ body {
     margin: 0;
     background-color: var(--footer-bg-color);
     color: var(--footer-color);
-    box-shadow: var(--elevation-shadow);
 }
 
 /* Topic page */
