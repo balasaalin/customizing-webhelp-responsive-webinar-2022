@@ -254,7 +254,6 @@ body {
     margin: 0;
     background-color: var(--footer-bg-color);
     color: var(--footer-color);
-    box-shadow: var(--elevation-shadow);
 }
 
 /* Topic page */
