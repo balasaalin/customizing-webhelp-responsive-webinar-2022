@@ -12,16 +12,21 @@
             <navtitle>Configure Parameters</navtitle>
         </topicmeta>
     </topicref>
-    <topicref href="https://webinar.sync.ro/03-css/" scope="external" format="html">
+    <topichead>
         <topicmeta>
-            <navtitle>CSS Styling - Light Theme</navtitle>
+            <navtitle>CSS Styling</navtitle>
         </topicmeta>
-    </topicref>
-    <topicref href="https://webinar.sync.ro/04-css-dark/" scope="external" format="html">
-        <topicmeta>
-            <navtitle>CSS Styling - Dark Theme</navtitle>
-        </topicmeta>
-    </topicref>
+        <topicref href="https://webinar.sync.ro/03-css/" scope="external" format="html">
+            <topicmeta>
+                <navtitle>Light Theme</navtitle>
+            </topicmeta>
+        </topicref>
+        <topicref href="https://webinar.sync.ro/04-css-dark/" scope="external" format="html">
+            <topicmeta>
+                <navtitle>Dark Theme</navtitle>
+            </topicmeta>
+        </topicref>
+    </topichead>
     <topicref href="https://webinar.sync.ro/05-html-fragments/" scope="external" format="html">
         <topicmeta>
             <navtitle>HTML Fragments</navtitle>
