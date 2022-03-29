@@ -7,6 +7,8 @@
       <css file="css/main.css"/>
       <css file="css/theme-switch.css"/>
       <css file="css/search-in-header.css"/>
+      <logo file="img/logo.png"/>
+      <favicon file="img/favicon.png"/>
       <fileset>
         <include name="js/**"/>
       </fileset>

@@ -5,6 +5,8 @@
     <preview-image file="preview.png"/>
     <resources>
       <css file="css/main.css"/>
+      <logo file="img/logo.png"/>
+      <favicon file="img/favicon.png"/>
     </resources>
     <parameters>
       <parameter name="webhelp.show.main.page.tiles" value="yes"/>
