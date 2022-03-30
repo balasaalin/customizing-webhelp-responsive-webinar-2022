@@ -37,4 +37,9 @@
             <navtitle>XSLT Extensions</navtitle>
         </topicmeta>
     </topicref>
+    <topicref href="https://webinar.sync.ro/07-html-layout-files/" scope="external" format="html">
+        <topicmeta>
+            <navtitle>HTML Layout Files</navtitle>
+        </topicmeta>
+    </topicref>
 </map>
