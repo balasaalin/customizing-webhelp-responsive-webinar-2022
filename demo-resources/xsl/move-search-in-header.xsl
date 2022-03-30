@@ -6,7 +6,7 @@
     version="2.0">
     
     <!-- 
-        The header section is not contained it the main HTML Layout file.
+        The header section is not contained in the main HTML Layout file.
         It is contained in header.xml which is included as an HTML Fragment file.  
     --> 
     <xsl:template match="whc:include_html[@href]" mode="copy_template">
