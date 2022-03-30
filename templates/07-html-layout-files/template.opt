@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<publishing-template>
+    <name>07. HTML Layout Files</name>
+    <description></description>
+    <webhelp>
+        <preview-image file="preview.png"/>
+        <html-page-layout-files>
+            <page-layout-file page="search" file="page-templates/wt_search.html"/>
+            <page-layout-file page="topic" file="page-templates/wt_topic.html"/>
+            <page-layout-file page="main" file="page-templates/wt_index.html"/>
+            <page-layout-file page="index-terms" file="page-templates/wt_terms.html"/>
+        </html-page-layout-files>
+        <html-fragments>
+            <fragment placeholder="webhelp.fragment.after.top_menu" file="html-fragments/theme-switch.xml"/>
+        </html-fragments>
+        <parameters>
+            <parameter name="webhelp.show.main.page.tiles" value="yes"/>
+            <parameter name="webhelp.show.main.page.toc" value="no"/>
+            <parameter name="webhelp.top.menu.activated.on.click" value="yes"/>
+            <parameter name="webhelp.default.collection.type.sequence" value="yes"/>
+            <parameter name="webhelp.publication.toc.links" value="all"/>
+            <parameter name="args.figurelink.style" value="TITLE"/>
+            <parameter name="args.tablelink.style" value="TITLE"/>
+            <parameter name="force-unique" value="true"/>
+        </parameters>
+        <resources>
+            <css file="css/main.css"/>
+            <css file="css/theme-switch.css"/>
+            <css file="css/search-in-header.css"/>
+            <logo file="img/logo.png"/>
+            <favicon file="img/favicon.png"/>
+            <fileset>
+                <include name="js/**"/>
+            </fileset>
+        </resources>
+    </webhelp>
+</publishing-template>
