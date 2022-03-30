@@ -1,9 +1,4 @@
 <div class="theme-switch-container">
-    <span>
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-            rel="stylesheet"/>
-        <script src="${oxygen-webhelp-template-dir}/js/theme-switch.js"/>
-    </span>
     <label class="switch">
         <input type="checkbox" id="wh-theme-switch-checkbox"/>
         <span class="slider-container">
