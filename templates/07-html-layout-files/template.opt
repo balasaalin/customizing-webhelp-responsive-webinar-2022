@@ -12,6 +12,7 @@
         </html-page-layout-files>
         <html-fragments>
             <fragment placeholder="webhelp.fragment.after.top_menu" file="html-fragments/theme-switch.xml"/>
+            <fragment file="html-fragments/feedback.xml" placeholder="webhelp.fragment.feedback"/>
         </html-fragments>
         <parameters>
             <parameter name="webhelp.show.main.page.tiles" value="yes"/>
